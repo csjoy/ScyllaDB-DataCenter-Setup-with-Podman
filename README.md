@@ -1,4 +1,4 @@
-# ScyllaDB-DataCenter-Setup-with-Podman
+# ScyllaDB-DataCenter-with-Podman
 Tutorial on how to setup multiple ScyllaDB datacenters using Podman
 
 
